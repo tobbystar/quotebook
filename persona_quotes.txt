@@ -1,2 +1,3 @@
 i have created my personal quote file, now i am really working on it.
 thank you Jesus for loving my the way i am, you are a wonderful God, we love you Jesus
+the is our respository, we run to run it on git push
